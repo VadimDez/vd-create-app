@@ -1,5 +1,5 @@
 {
-  "name": "cli-app",
+  "name": "vd-create-app",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -7,11 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "cli-app": "./index.js"
+    "vd-create-app": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vadimdez/cli-app.git"
+    "url": "https://github.com/vadimdez/vd-create-app.git"
   },
   "keywords": [],
   "author": {
