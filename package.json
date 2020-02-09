@@ -1,6 +1,6 @@
 {
   "name": "cli-app",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,11 +19,14 @@
     "email": "vadym.yatsyuk@gmail.com",
     "url": "https://github.com/vadimdez/"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
     "ejs": "^3.0.1",
     "inquirer": "^7.0.4",
     "shelljs": "^0.8.3"
+  },
+  "engines": {
+    "node": ">= 8"
   }
 }
