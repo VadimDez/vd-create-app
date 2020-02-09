@@ -1,13 +1,24 @@
 {
-  "name": "create-project",
+  "name": "cli-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "cli-app": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vadimdez/cli-app.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Vadym Yatsyuk",
+    "email": "vadym.yatsyuk@gmail.com",
+    "url": "https://github.com/vadimdez/"
+  },
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
